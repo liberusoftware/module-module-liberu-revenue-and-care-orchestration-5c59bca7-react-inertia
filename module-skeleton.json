@@ -1,0 +1,16 @@
+{
+  "repository": "module-module-liberu-revenue-and-care-orchestration-5c59bca7-react-inertia",
+  "capabilityKey": "liberusoftware/module-liberu-revenue-and-care-orchestration",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-module-liberu-revenue-and-care-orchestration-5c59bca7-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/billing/nextjs/liberu-revenue-and-care-orchestration.md",
+  "presentationPlan": "projects/billing/react/liberu-revenue-and-care-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing",
+    "genealogy"
+  ]
+}
